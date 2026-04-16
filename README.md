@@ -17,6 +17,7 @@ Une application web moderne pour la gestion d'un restaurant, développée avec D
 - Django 5.1.7
 - Python 3.12
 - HTML5/CSS3
+iii
 - JavaScript
 - SQLite
 
